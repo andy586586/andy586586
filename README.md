@@ -12,7 +12,7 @@
 
 <h2 align="center">What I'm up to</h2>
 I'm a Computer Science student at the University of Waterloo, currently in school and doing internships! I'm passionate about developer workflow and infrastructure improvement tools to multiply the efficiency of other devs (and myself)! I also build various other tools and creations that may be useful or interesting.
-<br>
+
 - 🔭 I’m working on: `BirdLook` (a CLI app for exploring real-time Bird and Migration data), and a custom Rust Firewall Improvement Tool
 - 🌱 Learning (subject to change!): Secure Programming, Rust, Java, Data-Intensive Computing, Computer Networking
 - 💬 Ask me about: Developing Custom Developer Workflow Tools, Operating System Security, Biotech, Aviation
