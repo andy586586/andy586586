@@ -42,7 +42,7 @@ I'm a Computer Science student at the University of Waterloo, currently in schoo
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andy586586&theme=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andy586586&layout=compact&theme=githubt&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andy586586&theme=github)
 
 
 </div>
