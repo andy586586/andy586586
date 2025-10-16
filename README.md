@@ -25,10 +25,6 @@ I'm a Computer Science student at the University of Waterloo, currently in schoo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andy586586&layout=compact&theme=tokyonight&hide_border=true)
 
-![Andy’s GitHub stats](https://github-readme-stats.vercel.app/api?username=andy586586&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andy586586&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=andy586586&theme=tokyonight&hide_border=true)
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andy586586&theme=tokyo-night&hide_border=true&bg_color=00000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
