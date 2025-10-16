@@ -8,7 +8,9 @@
 - RBC - Machine Learning to protect low-latency and high-volume operations/trading workflows  
 - Lockheed Martin - High-performance systems programming for undisclosed core product  
 
-### What I'm up to
+### 
+
+<h2 align="center">What I'm up to</h2>
 I'm a Computer Science student at the University of Waterloo, currently in school and doing internships! I work extensively on developer workflow and infrastructure improvement tools to multiply the efficiency of other devs (and myself)!
 
 - 🔭 I’m working on: `BirdLook` (a CLI app for exploring real-time Bird and Migration data), and a custom Rust Firewall Improvement Tool
@@ -16,11 +18,11 @@ I'm a Computer Science student at the University of Waterloo, currently in schoo
 - 💬 Ask me about: Developing Custom Developer Workflow Tools, Operating System Security, Biotech, Aviation
 
 
-### Contact
+<h2 align="center">Contact</h2>
 Reach me at my: [LinkedIn](https://www.linkedin.com/in/andy-si-761712214) or [Email](mailto:asi@uwaterloo.ca)
 
 
-### Fav Languages
+<h2 align="center">Fav Languages</h2>
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
@@ -30,7 +32,7 @@ Reach me at my: [LinkedIn](https://www.linkedin.com/in/andy-si-761712214) or [Em
 
 </div>
 
-### Stats
+<h2 align="center">Stats</h2>
 <div align="center">
   
 ![Andy’s Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andy586586&theme=tokyonight)
