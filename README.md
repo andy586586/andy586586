@@ -3,11 +3,11 @@
 ### Professional Experience
 Point72 - Infrastructure, memory and compute optimization for mission-critical systems  
 <br>
-IBM - Research and production of new document processing algorithm and paradigm for LLM information retrieval from scratch   
+IBM - Research and production of new document processing algorithm for LLM information retrieval from scratch   
 <br>
-RBC - Machine Learning to protect low-latency and high-volume operations and trading systems  
+RBC - Machine Learning to protect low-latency and high-volume operations and trading workflows  
 <br>
-Lockheed Martin - High-performance systems programming for next-gen core product offerings  
+Lockheed Martin - High-performance systems programming for undisclosed core product  
 
 ### What I'm up to
 I'm a Computer Science student at the University of Waterloo, currently in school and doing internships! I work extensively on developer workflow and infrastructure improvement tools to multiply the efficiency of other devs (and myself)!
