@@ -19,9 +19,10 @@ I'm a Computer Science student at the University of Waterloo, currently in schoo
 
 
 <h2 align="center">Contact</h2>
-###
-Reach me at my: [LinkedIn](https://www.linkedin.com/in/andy-si-761712214) or [Email](mailto:asi@uwaterloo.ca)
-###
+<p align="center">
+🔗 <a href="https://www.linkedin.com/in/andy-si-761712214" target="_blank">LinkedIn</a> |
+📧 <a href="mailto:asi@uwaterloo.ca">Email</a>
+</p>
 
 <h2 align="center">Fav Languages</h2>
 <div align="center">
