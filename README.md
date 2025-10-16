@@ -12,7 +12,10 @@ I'm a Computer Science student at the University of Waterloo, currently in schoo
 - 🔭 I’m working on: `BirdLook` (a CLI app for exploring real-time Bird and Migration data), and a custom Rust Firewall Improvement Tool
 - 🌱 Learning (subject to change!): Secure Programming, Rust, Java, Data-Intensive Computing, Computer Networking
 - 💬 Ask me about: Developing Custom Developer Workflow Tools, Operating System Security, Biotech, Aviation
-- 📫 Reach me at my: [LinkedIn](https://www.linkedin.com/in/andy-si-761712214) or [Email](mailto:asi@uwaterloo.ca)
+
+
+### Contact
+Reach me at my: [LinkedIn](https://www.linkedin.com/in/andy-si-761712214) or [Email](mailto:asi@uwaterloo.ca)
 
 
 ### Fav Languages
