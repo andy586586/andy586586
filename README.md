@@ -1,6 +1,6 @@
 # 👋 Hi there, nice to meet you! Welcome to my Github! 
 
-<h2 align="center"> Professional Experience</h2>
+### Professional Experience
 <hr style="width:60%;margin:auto;opacity:0.25;">
 - Point72 - Internal tools/infrastructure for memory and compute optimization
 - IBM - New document processing algorithm for LLM information retrieval
