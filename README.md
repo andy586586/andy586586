@@ -18,7 +18,7 @@ I'm a Computer Science student at the University of Waterloo, currently in schoo
 - 🌱 Learning (subject to change!): Secure Programming, Rust, Java, Data-Intensive Computing, Computer Networking
 - 💬 Ask me about: Developing Custom Developer Workflow Tools, Operating System Security, Biotech, Aviation
 
-
+###
 <h2 align="center">Contact</h2>
 <p align="center">
   Reach my at my:
