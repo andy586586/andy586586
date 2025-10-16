@@ -20,6 +20,7 @@ I'm a Computer Science student at the University of Waterloo, currently in schoo
 
 <h2 align="center">Contact</h2>
 <p align="center">
+  Reach my at my:
 🔗 <a href="https://www.linkedin.com/in/andy-si-761712214" target="_blank">LinkedIn</a> |
 📧 <a href="mailto:asi@uwaterloo.ca">Email</a>
 </p>
