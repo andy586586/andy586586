@@ -27,6 +27,7 @@ I'm a Computer Science student at the University of Waterloo, currently in schoo
 
 ### Stats
 <div align="center">
+  
 ![Andy’s Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andy586586&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andy586586&layout=compact&theme=tokyonight&hide_border=true)
