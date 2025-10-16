@@ -1,9 +1,9 @@
 # 👋 Hi there, nice to meet you! Welcome to my Github! 
 
 ### Professional Experience
-- Point72 - Internal tools/infrastructure for memory, compute and resource optimization
-- IBM - Research and production of new document processing algorithm for LLM information retrieval from scratch   
-- RBC - Machine Learning to protect low-latency and high-volume operations and trading workflows  
+- Point72 - Internal tools/infrastructure for memory and compute optimization
+- IBM - New document processing algorithm for LLM information retrieval
+- RBC - Machine Learning to protect low-latency and high-volume operations/trading workflows  
 - Lockheed Martin - High-performance systems programming for undisclosed core product  
 
 ### What I'm up to
