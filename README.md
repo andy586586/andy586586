@@ -1,19 +1,10 @@
 # 👋 Hi there, nice to meet you! Welcome to my Github! 
 
 ### Professional Experience
-
-**Point72 — Software Engineer**  
-*Infrastructure, memory and compute optimization for mission-critical systems*  
-
-**IBM — Research Software Engineer**  
-*Research and production of new document processing algorithm and paradigm for LLM information retrieval from scratch*  
-
-**RBC — Data Scientist**  
-*Machine Learning to protect low-latency and high-volume operations and trading systems*   
-
-**Lockheed Martin — Software Engineer**  
-*High-performance systems programming for next-gen core product offerings*  
-
+**Point72 — Software Engineer** | Infrastructure, memory and compute optimization for mission-critical systems  
+**IBM — Research Software Engineer** | Research and production of new document processing algorithm and paradigm for LLM information retrieval from scratch  
+**RBC — Data Scientist** | Machine Learning to protect low-latency and high-volume operations and trading systems  
+**Lockheed Martin — Software Engineer** | High-performance systems programming for next-gen core product offerings  
 
 ### What I'm up to
 I'm a Computer Science student at the University of Waterloo, currently in school and doing internships! I work extensively on developer workflow and infrastructure improvement tools to multiply the efficiency of other devs (and myself)!
