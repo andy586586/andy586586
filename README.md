@@ -2,12 +2,17 @@
 
 ### Professional Experience
 
-| Company | Role | Tech & Focus | Duration |
-|----------|------|--------------|-----------|
-| **Point72** | Software Engineer | Infrastructure, Memory and Compute optimization for mission-critical operations
-| **IBM** | Research Software Engineer | Built new document processing algorithm and paradigm for LLM information retrieval from scratch
-| **RBC** | Data Scientist | Machine Learning for low-latency and high-volume operations and trading systems
-| **Lockheed Martin** | Software Engineer | High-performance systems programming for next-gen core product offerings
+**Point72 — Software Engineer**  
+*Infrastructure, memory and compute optimization for mission-critical systems*  
+
+**IBM — Research Software Engineer**  
+*Research and production of new document processing algorithm and paradigm for LLM information retrieval from scratch*  
+
+**RBC — Data Scientist**  
+*Machine Learning to protect low-latency and high-volume operations and trading systems*   
+
+**Lockheed Martin — Software Engineer**  
+*High-performance systems programming for next-gen core product offerings*  
 
 
 ### What I'm up to
@@ -16,11 +21,12 @@ I'm a Computer Science student at the University of Waterloo, currently in schoo
 - 🔭 I’m working on: `BirdLook` (a CLI app for exploring real-time Bird and Migration data), and a custom Rust Firewall Improvement Tool
 - 🌱 Learning (subject to change!): Secure Programming, Rust, Java, Data-Intensive Computing, Computer Networking
 - 💬 Ask me about: Developing Custom Developer Workflow Tools, Operating System Security, Biotech, Aviation
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/andy-si-761712214) | [Email](mailto:asi@uwaterloo.ca)
+- 📫 Reach me at my: [LinkedIn](https://www.linkedin.com/in/andy-si-761712214) or [Email](mailto:asi@uwaterloo.ca)
 
 
 #### 💻 Fav Languages
 <div align="center">
+
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
