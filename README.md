@@ -40,9 +40,9 @@ I'm a Computer Science student at the University of Waterloo, currently in schoo
 <h2 align="center">Stats</h2>
 <div align="center">
   
-![Andy’s Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andy586586&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andy586586&theme=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andy586586&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andy586586&layout=compact&theme=githubt&hide_border=true)
 
 
 </div>
