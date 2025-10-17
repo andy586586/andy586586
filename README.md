@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Andy. Nice to meet you! Welcome to my Github! 
+# 👋 Hi there, I'm Andy. Nice to meet you!
 
 <h2 align="center">Professional Experience</h2>
 
