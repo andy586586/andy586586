@@ -15,7 +15,7 @@ I'm a Computer Science student at the University of Waterloo, currently in schoo
 
 <p style="margin:6px 0;"></p>
 
-- 🔭 I’m working on: `BirdLook` (a CLI app for exploring real-time Bird and Migration data), and a custom Rust Firewall Improvement Tool
+- 🔭 I’m working on: `BirdLook` (a CLI app for exploring real-time Bird and Migration data), and a custom Rust Predictive Scheduler for OS
 - 🌱 Learning (subject to change!): Secure Programming, Rust, Java, Data-Intensive Computing, Computer Networking
 - 💬 Ask me about: Developing Custom Developer Workflow Tools, Operating System Security, Biotech, Aviation
 
