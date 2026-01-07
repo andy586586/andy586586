@@ -3,10 +3,10 @@
 <h2 align="center">Professional Experience</h2>
 
 ###
-- Point72 - Internal tools/infrastructure for memory, workload and compute optimization
+- Point72 - Built internal tools/infrastructure for memory, workload and compute optimization
 - IBM - Invented new document processing algorithm for LLM information retrieval
-- RBC - Machine Learning middleware to protect low-latency and high-volume operations/trading workflows  
-- Lockheed Martin - High-performance systems programming for undisclosed core product  
+- RBC - Developed Machine Learning middleware to protect low-latency and high-volume operations/trading workflows  
+- Lockheed Martin - Engineered first-of-its-kind high-performance systems programs for undisclosed core product  
 
 ### 
 
