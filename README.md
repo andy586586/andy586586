@@ -6,7 +6,7 @@
 - Point72 - Built internal tools/infrastructure for memory, workload and compute optimization
 - IBM - Invented new document processing algorithm for LLM information retrieval
 - RBC - Developed Machine Learning middleware to protect low-latency and high-volume operations/trading workflows  
-- Lockheed Martin - Engineered first-of-its-kind high-performance systems programs for undisclosed core product  
+- Lockheed Martin - Engineered new system architecture and programs for new core product  
 
 ### 
 
